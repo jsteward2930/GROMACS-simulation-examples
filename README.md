@@ -4,7 +4,7 @@ This repository contains a collection of Jupyter Notebooks, simulation files, an
 
 Repository Contents
 
-- Jupyter Notebooks**: Step-by-step guides and scripts for running and analyzing molecular dynamics simulations.
+- Jupyter Notebooks: Step-by-step guides and scripts for running and analyzing molecular dynamics simulations.
 - PDB Files: Protein Data Bank files that contain the 3D structures of proteins used in the simulations.
 - GRO Files: GROMACS structure files, detailing the system setup for simulations.
 - ITP Files: Include Topology files used by GROMACS for defining non-standard molecules.
