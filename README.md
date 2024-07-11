@@ -2,6 +2,15 @@ GROMACS Simulation Repository
 
 This repository contains a collection of Jupyter Notebooks, simulation files, and analysis tools for molecular dynamics simulations conducted using GROMACS. These resources are primarily aimed at educational and demonstration purposes, particularly for sharing simulation workflows and results.
 
+T cell receptor (TCR) Simulation
+https://studio.youtube.com/video/COYKtf-2fC8/edit
+
+Porcine Circovirus single stranded DNA all-atom simulation
+https://www.youtube.com/watch?v=BsK3dr4lPrw
+
+Lysozyme Simulation
+https://www.youtube.com/watch?v=Q2OYA0dTxJU
+
 Repository Contents
 
 - Jupyter Notebooks: Step-by-step guides and scripts for running and analyzing molecular dynamics simulations.
