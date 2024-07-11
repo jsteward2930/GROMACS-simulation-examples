@@ -1,0 +1,16 @@
+; Include forcefield parameters
+#include "/Users/josephsteward/polyply_1.0/ssDNA-tutorial/forcefield.itp"
+#include "/Users/josephsteward/polyply_1.0/ssDNA-tutorial/ions.itp"
+#include "/Users/josephsteward/polyply_1.0/ssDNA-tutorial/tip3p.itp"
+#include "/Users/josephsteward/polyply_1.0/ssDNA-tutorial/polyT.itp"
+
+[ system ]
+; Name of the system
+DNA in water
+
+[ molecules ]
+; Define molecules and their count
+ssDNA 5
+SOL 25000
+NA 57    ; Adjusted for low salt concentration
+CL 7
